@@ -10,6 +10,7 @@ I'm a Junior Software Developer with a unique blend of scientific training and t
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&labelColor=%23171717) &ensp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&labelColor=%23171717) &ensp;
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&labelColor=%23171717) &ensp;
+![Static Badge](https://img.shields.io/badge/node.js-%235FA04E?style=for-the-badge&logo=nodedotjs&labelColor=171717) &ensp;
 ![.NET/C#](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&labelColor=%23171717) &ensp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&labelColor=%23171717) &ensp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&labelColor=%23171717) &ensp;
