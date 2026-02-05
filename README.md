@@ -1,4 +1,10 @@
-## Hi there 👋
+## 👋 Hi there
+I'm Jack Grace. I'm a Junior Backend Developer specializing in data systems and architecture. I have a background in Molecular Biology and Biotechnology
+and a Computer Programming diploma, giving me a unique combination and perspective to the world of science and technology.
+
+## 💻 Tech Stack
+![Python](https://img.shields.io)
+
 
 <!--
 **JGrace99/JGrace99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
