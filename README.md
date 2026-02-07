@@ -22,6 +22,10 @@ I'm a Junior Software Developer with a unique blend of scientific training and t
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&labelColor=%23171717) &ensp;
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&labelColor=%23171717) &ensp;
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&labelColor=%23171717) &ensp;
+![Selenium](https://img.shields.io/badge/selenium-%2343B02A?style=for-the-badge&logo=selenium&labelColor=%23171717) &ensp;
+![JUnit](https://img.shields.io/badge/junit-%2325A162?style=for-the-badge&logo=junit5&labelColor=%23171717) &ensp;
+![JMeter](https://img.shields.io/badge/JMeter-%23D22128?style=for-the-badge&logo=apachejmeter&labelColor=%23171717) &ensp;
+
 
 ## 🔭 I’m currently working on 
 [**Nether**](https://github.com/JGrace99/nether) - A cross-platform desktop application for real-time text messaging and file sharing between devices on a local network.
